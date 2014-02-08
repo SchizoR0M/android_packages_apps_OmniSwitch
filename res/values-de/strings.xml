@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2013 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">OmniSwitch</string>
+    <string name="status_bar_recent_remove_item_title">Stop</string>
+    <string name="status_bar_recent_inspect_item_title">App Info</string>
+    <string name="recents_settings_title">OmniSwitch</string>
+    <string name="start_on_boot_title">Beim Boot starten</string>
+    <string name="start_on_boot_summary">Einschalten und Starten beim Booten</string>
+    <string name="toggle_service_title">An</string>
+    <string name="opacity_title">Transparenz</string>
+    <string name="opacity_summary">Transparenz des Hintergrundes</string>
+    <string name="animate_title">Animieren</string>
+    <string name="animate_title_summary">Anzeigen/Verstecken animieren</string>
+    <string name="adjust_handle_title">Position</string>
+    <string name="sc_drag_handle_title">Ziehposition</string>
+    <string name="sc_drag_handle_body">\nHorizontal Wischen,oder gedrückt halten zum Öffnen\nTaste oder außerhalb drücken zum Schließen</string>
+    <string name="sc_favorite_title">Fav. Anwendungen</string>
+    <string name="sc_favorite_body">\nÖffnen der fav. Apps</string>
+    <string name="icon_size_normal">Normal</string>
+    <string name="icon_size_small">Klein</string>
+    <string name="icon_size_large">Groß</string>
+    <string name="icon_size_title">Icongröße</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="drag_handle_color_title">Farbe</string>
+    <string name="drag_handle_color_dialog_title">Farbe</string>
+    <string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> free</string>
+    <string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> used</string>
+    <string name="show_rambar_title">Speicherverbrauch</string>
+    <string name="show_rambar_summary">Zeige benutzten/verbrauchten RAM</string>
+    <string name="show_app_labels">Zeige Namen</string>
+    <string name="show_app_labels_summary">Appname wird mit dem Icon angezeigt</string>
+    <string name="category_overlay_title">Auflage</string>
+    <string name="category_drag_handle_title">Ziehtaste</string>
+    <string name="category_favorite_title">Favoriten</string>
+    <string name="favorite_apps_config_title">Favoriten managen</string>
+    <string name="favorite_apps_config_summary">Festlegen der Apps für die Favoritenansicht </string>
+    <string name="favorite_apps_add_dialog_title">Apps hinzufügen</string>
+    <string name="favorite_add">Füge\u2026 hinzu</string>
+    <string name="location_left" translatable="false">&lt;&lt;</string>
+    <string name="location_right" translatable="false">&gt;&gt;</string>
+    <string name="reset">Standard</string>
+    <string name="toogle_last_app_help">Zur letzten App wechseln</string>
+    <string name="kill_all_apps_help">Alle Apps löschen</string>
+    <string name="kill_other_apps_help">Andere Apps löschen</string>
+    <string name="settings_help">Einstellungen</string>
+    <string name="home_help">Home</string>
+    <string name="toogle_last_app">Zur letzten App wechseln</string>
+    <string name="kill_all_apps">Alle Apps löschen</string>
+    <string name="kill_other_apps">Andere Apps löschen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="home">Home</string>
+    <string name="buttons_title">Tasten</string>
+    <string name="buttons_summary">Aktionstasten werde angezeigt</string>
+    <string name="auto_hide_handle">Automatisch Verstecken</string>
+    <string name="auto_hide_handle_summary">Zwei mal Wischen zum Anzeigen</string>
+    <string name="no_recent_apps_title">Keine kürzlichen Apps</string>
+    <string name="adjust_handle_disable_summary">Ausschalten zum Positionswechsel</string>
+    <string name="adjust_handle_enable_summary" translatable="false"></string>
+</resources>
